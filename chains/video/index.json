@@ -8,6 +8,16 @@
    "file": "chains/video/3049c2315d89f86b.mp4",
    "size": 10850263,
    "added": 1793602864,
+   "deleted": true
+  },
+  {
+   "id": "DfKbEP_jkhk:DfKbEP_jkhk:0",
+   "root": "DfKbEP_jkhk",
+   "pid": "DfKbEP_jkhk",
+   "k": 0,
+   "file": "chains/video/97f5ceca3d7957f7.mp4",
+   "size": 17108339,
+   "added": 1793602954,
    "deleted": false
   }
  ]
