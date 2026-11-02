@@ -1,16 +1,6 @@
 {
  "videos": [
   {
-   "id": "DfNl_xkAcjc:DfNl_xkAcjc:0",
-   "root": "DfNl_xkAcjc",
-   "pid": "DfNl_xkAcjc",
-   "k": 0,
-   "file": "chains/video/3049c2315d89f86b.mp4",
-   "size": 10850263,
-   "added": 1793602864,
-   "deleted": true
-  },
-  {
    "id": "DfKbEP_jkhk:DfKbEP_jkhk:0",
    "root": "DfKbEP_jkhk",
    "pid": "DfKbEP_jkhk",
